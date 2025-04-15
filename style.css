@@ -533,6 +533,10 @@ header.sticky {
             transform: translateY(-65px);
         }
 */
+         .logo {
+            margin-left: 20px;
+        }
+
         .home .home-container {
             display: grid;
         }
